@@ -39,10 +39,10 @@ PLANTAYA LED es simplemente un puente entre ese lenguaje y nosotros.
 
 | Producto                     | Precio              | ¿Funciona? | ¿App? |
 |----------------------------|--------------------|------------|------|
-| Plant Bot (USA)            | ~20$ + envío       | ✅         | ❌   |
-| LeafyPod (USA)             | ~99$ + envío       | ✅         | ❌ (opcional) |
-| Sensores baratos           | ~5€                | ❌ (se oxidan) | ❌ |
-| **PLANTAYA LED**           | **~25–35€**        | ✅         | ❌ |
+| Plant Bot (USA)            | ~20$ + envío       | Si         | No|
+| LeafyPod (USA)             | ~99$ + envío       | Si         | No (opcional) |
+| Sensores baratos           | ~5€                | No (se oxidan) | No |
+| **PLANTAYA LED**           | **~25–35€**        | Si         | No |
 
 💡 **Conclusión:**  
 El low cost bien hecho no es más pobre, es más inteligente.
