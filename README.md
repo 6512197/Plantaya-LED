@@ -56,10 +56,46 @@ Este proyecto es minimalismo digital en estado puro:
 - Sin librerías innecesarias  
 - Sin conexiones inalámbricas  
 - Sin servidores  
-- Sin consumo invisible  
+- Sin consumo invisible
 
-```cpp
-// Green coding: simple, eficiente, suficiente
-if (humedad > 800) {
-    ledRojo();  // Riega ya
-}
+  
+    ```cpp
+        // Green coding: simple, eficiente, suficiente
+        if (humedad > 800) {
+        ledRojo();  // Riega ya
+        }  
+
+# 🔧 4. Kit
+🌱 Sensor capacitivo V1.2 (el más importante, no se oxida)
+
+Opción 1 – Electrocomponentes (España):
+https://www.electrocomponentes.es/inicio/1761-sensor-capacitivo-de-humedad-en-suelo-anticorrosion-v12-riego-analogico.html
+Opción 2 – Amazon España:
+https://www.amazon.es/s?k=sensor+capacitivo+humedad+v1.2
+
+💰 Precio: 3–6€ (envío rápido disponible)
+
+🔌 Arduino Nano (el cerebro)
+Amazon España:
+https://www.amazon.es/s?k=arduino+nano
+
+💰 Precio: 12–15€ (clones)
+
+💡 LED RGB + resistencias
+LED RGB (Amazon):
+https://www.amazon.es/s?k=led+rgb+5mm+cátodo+común
+
+💰 Precio: 2–4€ (pack)
+
+Resistencias 220Ω:
+https://www.amazon.es/s?k=resistencias+220+ohm
+
+📦 Embalaje
+Proveedor (Alibaba):
+https://www.alibaba.com/pla/China-Factory-Manufacturer-Custom-Shipping-Boxes-Mailing-Shipping-Packaging-Corrugated-Cardboard-Boxes-for-Packaging-Business_1601018288767.html
+
+💰 Precio: 0.2–00.75€ (unidades)
+
+✨ Nota final
+
+PLANTAYA LED no busca competir con dispositivos inteligentes.
