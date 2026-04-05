@@ -70,6 +70,7 @@ Este proyecto es minimalismo digital en estado puro:
 
 Opción 1 – Electrocomponentes (España):
 https://www.electrocomponentes.es/inicio/1761-sensor-capacitivo-de-humedad-en-suelo-anticorrosion-v12-riego-analogico.html
+
 Opción 2 – Amazon España:
 https://www.amazon.es/s?k=sensor+capacitivo+humedad+v1.2
 
